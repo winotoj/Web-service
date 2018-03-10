@@ -1,0 +1,10 @@
+D:\webservice\CookXMLRPCServer\CookXMLRPCServer\bin\Debug\SumAndDiff.exe.config
+D:\webservice\CookXMLRPCServer\CookXMLRPCServer\bin\Debug\CookXMLRPCServer.exe.config
+D:\webservice\CookXMLRPCServer\CookXMLRPCServer\bin\Debug\CookXMLRPCServer.exe
+D:\webservice\CookXMLRPCServer\CookXMLRPCServer\bin\Debug\CookXMLRPCServer.pdb
+D:\webservice\CookXMLRPCServer\CookXMLRPCServer\bin\Debug\CookComputing.XmlRpcServerV2.dll
+D:\webservice\CookXMLRPCServer\CookXMLRPCServer\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\webservice\CookXMLRPCServer\CookXMLRPCServer\obj\Debug\CookXMLRPCServer.csprojResolveAssemblyReference.cache
+D:\webservice\CookXMLRPCServer\CookXMLRPCServer\obj\Debug\CookXMLRPCServer.csproj.CoreCompileInputs.cache
+D:\webservice\CookXMLRPCServer\CookXMLRPCServer\obj\Debug\CookXMLRPCServer.exe
+D:\webservice\CookXMLRPCServer\CookXMLRPCServer\obj\Debug\CookXMLRPCServer.pdb

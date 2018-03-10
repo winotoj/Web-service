@@ -1,0 +1,12 @@
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\bin\Debug\App.config
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\bin\Debug\rpc-shout-dotnet-servernew.exe.config
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\bin\Debug\rpc-shout-dotnet-servernew.exe
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\bin\Debug\rpc-shout-dotnet-servernew.pdb
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\bin\Debug\CookComputing.XmlRpcServerV2.dll
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\obj\Debug\rpc-shout-dotnet-servernew.csprojResolveAssemblyReference.cache
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\obj\Debug\rpc-shout-dotnet-servernew.csproj.CoreCompileInputs.cache
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\obj\Debug\rpc-shout-dotnet-servernew.exe
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\obj\Debug\rpc-shout-dotnet-servernew.pdb
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\bin\Debug\Program.cs
+D:\webservice\rpc-shout-dotnet-servernew\rpc-shout-dotnet-servernew\bin\Debug\ShoutService.config

@@ -1,0 +1,7 @@
+D:\webservice\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\webservice\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\webservice\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\webservice\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\webservice\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\webservice\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\webservice\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

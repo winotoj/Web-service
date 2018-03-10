@@ -1,0 +1,15 @@
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\bin\Debug\ShoutBox-WebService-Client.exe.config
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\bin\Debug\ShoutBox-WebService-Client.exe
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\bin\Debug\ShoutBox-WebService-Client.pdb
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\ShoutBox-WebService-Client.csprojResolveAssemblyReference.cache
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\MainWindow.g.cs
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\App.g.cs
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\ShoutBox-WebService-Client_MarkupCompile.cache
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\ShoutBox-WebService-Client_MarkupCompile.lref
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\MainWindow.baml
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\ShoutBox-WebService-Client.g.resources
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\ShoutBox_WebService_Client.Properties.Resources.resources
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\ShoutBox-WebService-Client.csproj.GenerateResource.Cache
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\ShoutBox-WebService-Client.csproj.CoreCompileInputs.cache
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\ShoutBox-WebService-Client.exe
+D:\webservice\ShoutBox-WebService-Client\ShoutBox-WebService-Client\obj\Debug\ShoutBox-WebService-Client.pdb

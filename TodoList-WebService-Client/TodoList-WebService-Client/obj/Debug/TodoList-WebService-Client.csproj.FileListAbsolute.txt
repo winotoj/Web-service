@@ -1,0 +1,17 @@
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\bin\Debug\TodoList-WebService-Client.exe.config
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\bin\Debug\TodoList-WebService-Client.exe
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\bin\Debug\TodoList-WebService-Client.pdb
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList-WebService-Client.csprojResolveAssemblyReference.cache
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\MainWindow.g.cs
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\WinAdd.g.cs
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\App.g.cs
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList-WebService-Client_MarkupCompile.cache
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList-WebService-Client_MarkupCompile.lref
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\MainWindow.baml
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\WinAdd.baml
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList-WebService-Client.g.resources
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList_WebService_Client.Properties.Resources.resources
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList-WebService-Client.csproj.GenerateResource.Cache
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList-WebService-Client.csproj.CoreCompileInputs.cache
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList-WebService-Client.exe
+D:\webservice\TodoList-WebService-Client\TodoList-WebService-Client\obj\Debug\TodoList-WebService-Client.pdb

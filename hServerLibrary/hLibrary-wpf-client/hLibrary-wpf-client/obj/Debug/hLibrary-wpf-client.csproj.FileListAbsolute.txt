@@ -1,0 +1,16 @@
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\bin\Debug\hLibrary-wpf-client.exe.config
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\bin\Debug\hLibrary-wpf-client.exe
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\bin\Debug\hLibrary-wpf-client.pdb
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\hLibrary-wpf-client.csprojResolveAssemblyReference.cache
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\MainWindow.g.cs
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\App.g.cs
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\hLibrary-wpf-client_MarkupCompile.cache
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\hLibrary-wpf-client_MarkupCompile.lref
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\MainWindow.baml
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\hLibrary-wpf-client.g.resources
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\hLibrary_wpf_client.Properties.Resources.resources
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\hLibrary-wpf-client.csproj.GenerateResource.Cache
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\hLibrary-wpf-client.csproj.CoreCompileInputs.cache
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\hLibrary-wpf-client.exe
+C:\webservice\hServerLibrary\hLibrary-wpf-client\hLibrary-wpf-client\obj\Debug\hLibrary-wpf-client.pdb

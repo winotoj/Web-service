@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ee678a27-bf8f-408e-b5f5-c17aacdc52ed" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:14177/TodoService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TodoService.xsd" MetadataType="Schema" ID="ddbf219e-7648-421d-814c-3cd1f1bb52fd" SourceId="1" SourceUrl="http://localhost:14177/TodoService.svc?xsd=xsd2" />
+    <MetadataFile FileName="TodoService1.xsd" MetadataType="Schema" ID="9546e067-100e-4818-99ba-1c98b3f222ea" SourceId="1" SourceUrl="http://localhost:14177/TodoService.svc?xsd=xsd1" />
+    <MetadataFile FileName="TodoService.disco" MetadataType="Disco" ID="c343541a-1d1a-4e7c-810c-0e067b803dde" SourceId="1" SourceUrl="http://localhost:14177/TodoService.svc?disco" />
+    <MetadataFile FileName="TodoService2.xsd" MetadataType="Schema" ID="05de18a7-e046-4364-aaf0-8a084dbf4500" SourceId="1" SourceUrl="http://localhost:14177/TodoService.svc?xsd=xsd0" />
+    <MetadataFile FileName="TodoService.wsdl" MetadataType="Wsdl" ID="9908a273-b659-4d45-b359-0278a6859ed8" SourceId="1" SourceUrl="http://localhost:14177/TodoService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,16 @@
+D:\webservice\rpcshout\rpcshout\bin\Debug\rpcshout.exe.config
+D:\webservice\rpcshout\rpcshout\bin\Debug\rpcshout.exe
+D:\webservice\rpcshout\rpcshout\bin\Debug\rpcshout.pdb
+D:\webservice\rpcshout\rpcshout\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\webservice\rpcshout\rpcshout\obj\Debug\rpcshout.csprojResolveAssemblyReference.cache
+D:\webservice\rpcshout\rpcshout\obj\Debug\MainWindow.g.cs
+D:\webservice\rpcshout\rpcshout\obj\Debug\App.g.cs
+D:\webservice\rpcshout\rpcshout\obj\Debug\rpcshout_MarkupCompile.cache
+D:\webservice\rpcshout\rpcshout\obj\Debug\rpcshout_MarkupCompile.lref
+D:\webservice\rpcshout\rpcshout\obj\Debug\MainWindow.baml
+D:\webservice\rpcshout\rpcshout\obj\Debug\rpcshout.g.resources
+D:\webservice\rpcshout\rpcshout\obj\Debug\rpcshout.Properties.Resources.resources
+D:\webservice\rpcshout\rpcshout\obj\Debug\rpcshout.csproj.GenerateResource.Cache
+D:\webservice\rpcshout\rpcshout\obj\Debug\rpcshout.csproj.CoreCompileInputs.cache
+D:\webservice\rpcshout\rpcshout\obj\Debug\rpcshout.exe
+D:\webservice\rpcshout\rpcshout\obj\Debug\rpcshout.pdb

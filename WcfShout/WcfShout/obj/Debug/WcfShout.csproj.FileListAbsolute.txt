@@ -1,0 +1,7 @@
+D:\webservice\WcfShout\WcfShout\bin\WcfShout.dll.config
+D:\webservice\WcfShout\WcfShout\bin\WcfShout.dll
+D:\webservice\WcfShout\WcfShout\bin\WcfShout.pdb
+D:\webservice\WcfShout\WcfShout\obj\Debug\WcfShout.csprojResolveAssemblyReference.cache
+D:\webservice\WcfShout\WcfShout\obj\Debug\WcfShout.csproj.CoreCompileInputs.cache
+D:\webservice\WcfShout\WcfShout\obj\Debug\WcfShout.dll
+D:\webservice\WcfShout\WcfShout\obj\Debug\WcfShout.pdb
